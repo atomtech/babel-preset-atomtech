@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-atomtech",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A babel preset for transforming your JavaScript for AtomTech.",
   "main": "index.js",
   "scripts": {
